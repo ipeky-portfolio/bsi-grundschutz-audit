@@ -1,7 +1,7 @@
 # Informationssicherheitsleitlinie (IS-Leitlinie)
 
 ## 1. Zielsetzung
-Die Geschäftsführung der **SecureData GmbH** verpflichtet sich zur Einhaltung der Sicherheitsziele Vertraulichkeit, Integrität und Verfügbarkeit aller geschäftskritischen Informationen.
+Die Geschäftsführung der **Muster P GmbH** verpflichtet sich zur Einhaltung der Sicherheitsziele Vertraulichkeit, Integrität und Verfügbarkeit aller geschäftskritischen Informationen.
 
 ## 2. Normative Grundlage
 Die Informationssicherheit orientiert sich am **BSI IT-Grundschutz** (BSI-Standards 200-x) und dem IT-Grundschutz-Kompendium.
